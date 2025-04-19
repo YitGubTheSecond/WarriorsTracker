@@ -8,47 +8,123 @@
         {"name": "The Darkest Hour"}
     ]},
     {"name": "The New Prophecy", "children": [
-        {"name": "Into the Wild"},
-        {"name": "Fire and Ice"},
-        {"name": "Forest of Secrets"},
-        {"name": "Rising Storm"},
-        {"name": "A Dangerous Path"},
-        {"name": "The Darkest Hour"}
+        {"name": "Midnight"},
+        {"name": "Moonrise"},
+        {"name": "Dawn"},
+        {"name": "Starlight"},
+        {"name": "Twilight"},
+        {"name": "Sunset"}
     ]},
     {"name": "Power of Three", "children": [
-
+        {"name": "The Sight"},
+        {"name": "Dark River"},
+        {"name": "Outcast"},
+        {"name": "Eclipse"},
+        {"name": "Long Shadows"},
+        {"name": "Sunrise"}
     ]},
     {"name": "Omen of the Stars", "children": [
-
+        {"name": "The Fourth Apprentice"},
+        {"name": "Fading Echoes"},
+        {"name": "Night Whispers"},
+        {"name": "Sign of the Moon"},
+        {"name": "The Forgotten Warrior"},
+        {"name": "The Last Hope"}
     ]},
     {"name": "Dawn of the Clans", "children": [
-
+        {"name": "The Sun Trail"},
+        {"name": "Thunder Rising"},
+        {"name": "The First Battle"},
+        {"name": "The Blazing Star"},
+        {"name": "A Forest Divided"},
+        {"name": "Path of Stars"}
     ]},
     {"name": "A Vision of Shadows", "children": [
-
+        {"name": "The Apprentice's Quest"},
+        {"name": "Thunder and Shadow"},
+        {"name": "Shattered Sky"},
+        {"name": "Darkest Night"},
+        {"name": "River of Fire"},
+        {"name": "The Raging Storm"}
     ]},
     {"name": "The Broken Code", "children": [
-
+        {"name": "Lost Stars"},
+        {"name": "The Silent Thaw"},
+        {"name": "Veil of Shadows"},
+        {"name": "Darkness Within"},
+        {"name": "The Place of No Stars"},
+        {"name": "A Light in the Mist"}
     ]},
     {"name": "A Starless Clan", "children": [
-
+        {"name": "River"},
+        {"name": "Sky"},
+        {"name": "Shadow"},
+        {"name": "Thunder"},
+        {"name": "Wind"},
+        {"name": "Star"}
     ]},
     {"name": "Changing Skies", "children": [
-
+        {"name": "The Elder's Quest"}
     ]},
     {"name": "Super Editions", "children": [
-
+        {"name": "Firestar's Quest"},
+        {"name": "Bluestar's Prophecy"},
+        {"name": "Skyclan's Destiny"},
+        {"name": "Crookedstar's Promise"},
+        {"name": "Yellowfang's Secret"},
+        {"name": "Tallstar's Revenge"},
+        {"name": "Bramblestar's Storm"},
+        {"name": "Moth Flight's Vision"},
+        {"name": "Hawkwing's Journey"},
+        {"name": "Tigerheart's Shadow"},
+        {"name": "Crowfeather's Trial"},
+        {"name": "Squirrelflight's Hope"},
+        {"name": "Graystripe's Vow"},
+        {"name": "Leopardstar's Honor"},
+        {"name": "Onestar's Confession"},
+        {"name": "Riverstar's Home"},
+        {"name": "Ivypool's Heart"}
     ]},
     {"name": "Field Guides", "children": [
-
+        {"name": "Secrets of the Clans"},
+        {"name": "Cats of the Clans"},
+        {"name": "Code of the Clans"},
+        {"name": "Battles of the Clans"},
+        {"name": "Enter the Clans"},
+        {"name": "The Warriors Guide"},
+        {"name": "Warriors: The Ultimate Guide"},
+        {"name": "The Ultimate Guide: Updated and Expanded"}
     ]},
     {"name": "Novellas", "children": [
-
+        {"name": "The Untold Stories"},
+        {"name": "Tales from the Clans"},
+        {"name": "Shadows of the Clans"},
+        {"name": "Legends of the Clans"},
+        {"name": "Path of a Warrior"},
+        {"name": "A Warrior's Spirit"},
+        {"name": "A Warrior's Choice"}
     ]},
     {"name": "Manga", "children": [
-
+        {"name": "The Lost Warrior"},
+        {"name": "Warrior's Refuge"},
+        {"name": "Warrior's Return"},
+        {"name": "The Rise of Scourge"},
+        {"name": "Into the Woods"},
+        {"name": "Escape from the Forest"},
+        {"name": "Return to the Clans"},
+        {"name": "Shattered Peace"},
+        {"name": "A Clan in Need"},
+        {"name": "The Heart of a Warrior"},
+        {"name": "The Rescue"},
+        {"name": "Beyond the Code"},
+        {"name": "After the Flood"},
+        {"name": "A Shadow in RiverClan"},
+        {"name": "Winds of Change"},
+        {"name": "Exile From ShadowClan"},
+        {"name": "A Thief in ThunderClan"}
     ]},
     {"name": "Graphic Novels", "children": [
-
+        {"name": "Volume 1"},
+        {"name": "Volume 2"}
     ]}
 ]}
