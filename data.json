@@ -1,0 +1,54 @@
+{"name": "ROOT", "children": [
+    {"name": "The Prophecies Begin", "children": [
+        {"name": "Into the Wild"},
+        {"name": "Fire and Ice"},
+        {"name": "Forest of Secrets"},
+        {"name": "Rising Storm"},
+        {"name": "A Dangerous Path"},
+        {"name": "The Darkest Hour"}
+    ]},
+    {"name": "The New Prophecy", "children": [
+        {"name": "Into the Wild"},
+        {"name": "Fire and Ice"},
+        {"name": "Forest of Secrets"},
+        {"name": "Rising Storm"},
+        {"name": "A Dangerous Path"},
+        {"name": "The Darkest Hour"}
+    ]},
+    {"name": "Power of Three", "children": [
+
+    ]},
+    {"name": "Omen of the Stars", "children": [
+
+    ]},
+    {"name": "Dawn of the Clans", "children": [
+
+    ]},
+    {"name": "A Vision of Shadows", "children": [
+
+    ]},
+    {"name": "The Broken Code", "children": [
+
+    ]},
+    {"name": "A Starless Clan", "children": [
+
+    ]},
+    {"name": "Changing Skies", "children": [
+
+    ]},
+    {"name": "Super Editions", "children": [
+
+    ]},
+    {"name": "Field Guides", "children": [
+
+    ]},
+    {"name": "Novellas", "children": [
+
+    ]},
+    {"name": "Manga", "children": [
+
+    ]},
+    {"name": "Graphic Novels", "children": [
+
+    ]}
+]}
