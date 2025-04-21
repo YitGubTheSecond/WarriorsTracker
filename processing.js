@@ -1,7 +1,16 @@
+var total = 0;
+var current = 0;
+function loadcounter() {
+   document.getElementById("counter").innerHTML = current.toString() + "/" + total.toString() + " books"
+}
 function activate(id) {
    if (document.getElementById(id).checked == true){
+      current += 1;
+      loadcounter();
       localStorage.setItem(id, true)
    } else {
+      current -= 1;
+      loadcounter();
       localStorage.setItem(id, false)
    }
 }
@@ -47,12 +56,12 @@ async function load() {
    const json = await res.json();
    const serieslength = (json.children.length) - 1;
    for (let s = 0; s <= serieslength; s++) {
-      // document.getElementById("container").innerHTML += "<h2>[" + json.children[s].name + "]</h3>";
       const header = document.createElement("label");
       header.innerHTML = "<h2>[" + json.children[s].name + "]</h2>";
       document.body.appendChild(header);
       const length = await (json.children[s].children.length) - 1;
       for (let i = 0; i <= length; i++) {
+         total += 1;
          const checkbox = document.createElement("input");
          const label = document.createElement("label");
          const div = document.createElement("div");
@@ -65,6 +74,7 @@ async function load() {
          label.style.display = "inline-block";
          checkbox.style.display = "inline-block";
          if (localStorage.getItem(id) == "true"){
+            current += 1;
             checkbox.checked = true;
          }
          checkbox.onclick = function() {
@@ -73,5 +83,6 @@ async function load() {
          id += 1;
       }
    }
+   loadcounter();
 }
 document.addEventListener('DOMContentLoaded', load)
