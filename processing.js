@@ -1,7 +1,8 @@
 var total = 0;
 var current = 0;
 function loadcounter() {
-   document.getElementById("counter").innerHTML = current.toString() + "/" + total.toString() + " books"
+   const per = Math.round((current / total) * 100);
+   document.getElementById("counter").innerHTML = current.toString() + "/" + total.toString() + " books (" + per + "%)"
 }
 function activate(id) {
    if (document.getElementById(id).checked == true){
